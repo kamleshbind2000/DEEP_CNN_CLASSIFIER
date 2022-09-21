@@ -3,12 +3,12 @@ import setuptools
 with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
 
-__version__ = "0.0.0"
+__version__ = "0.0.1"
 
-REPO_NAME = "FSDS_NOV_deepCNNClassifier"
-AUTHOR_USER_NAME = "c17hawke"
+REPO_NAME = "DEEP_CNN_CLASSIFIER"
+AUTHOR_USER_NAME = "kamleshbind2000"
 SRC_REPO = "deepClassifier"
-AUTHOR_EMAIL = "sunny.c17hawke@gmail.com"
+AUTHOR_EMAIL = "kamleshbind2000@gmail.com"
 
 setuptools.setup(
     name=SRC_REPO,
